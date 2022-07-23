@@ -13,7 +13,7 @@ For Step 1,2,3 Follow the attached document.
 
 4. Create a self signed certificate and import it into ACM.
 
-https://github.com/tushardashpute/generating-self-signed-certificate.git
+https://github.com/cloudtechmasters/generating-self-signed-certificate.git
 
 5. Create new https listener for our existing alb and attached certificate created in above step.
 
